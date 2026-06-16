@@ -30,4 +30,4 @@ Apasionada por construir soluciones digitales funcionales y seguir creciendo pro
 
 ## 📫 Contacto
 
-[![LinkedIn](https://www.linkedin.com/in/karent-osorio-b8821533b )
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karent-osorio-b8821533b)
